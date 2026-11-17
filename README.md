@@ -14,5 +14,6 @@ IT specialist with a Higher Technician degree in Computer Applications Developme
 - **Multi-Restaurant Workforce & Product Mix (PM) Systems:** Standardized scheduling, payroll preparation, and operational data analytics architecture deployed across multiple retail locations.
 
 #### Connect
-- **LinkedIn:** [linkedin.com/in/daniel-b-351320157](https://www.linkedin.com/in/daniel-b-351320157/)
+- **LinkedIn:** [linkedin](https://www.linkedin.com/in/daniel-b-351320157/)
 - **Email:** barjad@gmail.com
+- **Resume:** [barjad-cloud.github.io/resume/](https://barjad-cloud.github.io/resume/)
